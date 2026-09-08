@@ -1,0 +1,8 @@
+# 上传辅助文件，不入库
+ascii/
+rel_log/
+_push.ps1
+_upload.ps1
+_push.log
+_upload.log
+*.7z.*
